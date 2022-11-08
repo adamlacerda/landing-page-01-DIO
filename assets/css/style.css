@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 900;
     text-transform: uppercase;
     color: transparent;
@@ -90,6 +90,7 @@ section {
 #course-content .modules-list {
     margin: 25px 0;
 }
+
 #course-content .modules-list .module {
     color: #fff;
     width: 535px;
@@ -135,7 +136,7 @@ span {
 footer {
     padding: 60px 0;
     text-align: center;
-    background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, 0.2) );
+    background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, 0.2));
 }
 
 .dio-logo {
@@ -148,3 +149,4 @@ footer a {
     line-height: 19px;
     text-decoration: none;
 }
+
