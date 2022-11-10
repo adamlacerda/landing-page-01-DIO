@@ -36,13 +36,14 @@ section {
     background-size: cover;
     background-repeat: no-repeat;
     height: 605px;
+    width: 100%;
     padding-top: 60px;
     border-bottom: 1px solid #33A8DB20;
 }
 
 .banner .banner-content {
     color: #fff;
-    width: 600px;
+    width: 100%;
     margin: auto;
     text-align: center;
 }
@@ -54,8 +55,8 @@ section {
 
 .banner .logo {
     background-color: rgba(0, 0, 0, .2);
-    height: 260px;
-    width: 260px;
+    height: 5%;
+    width: 18.246%;
     margin: auto;
     border-radius: 50%;
     padding: 16px;
@@ -150,3 +151,13 @@ footer a {
     text-decoration: none;
 }
 
+
+@media only screen and (max-device-width: 762px) {
+    /* .menu { width:100%; } */
+    }
+
+
+    @media only screen and (max-device-width: 375px) {
+        /* .menu { width:100%; } */
+        }
+    
