@@ -54,15 +54,15 @@ section {
 }
 
 .banner .logo {
-    
+
     width: 100%;
 }
 
 .banner .logo img {
-   max-width: 100%;
-   background-color: rgba(0, 0, 0, .2);
-   border-radius: 10rem;
-   padding:1rem;
+    max-width: 100%;
+    background-color: rgba(0, 0, 0, .2);
+    border-radius: 10rem;
+    padding: 1rem;
 }
 
 .banner .banner-content button {
@@ -148,29 +148,30 @@ footer a {
 
 
 @media only screen and (max-device-width: 768px) {
-    /* .menu { width:100%; } */
 
     #course-content {
-     width: 100%;
-    }
-    
-    #course-content .modules-list .module {
-      
         width: 100%;
-      
+    }
+
+    #course-content .modules-list .module {
+
+        width: 100%;
+
     }
 
     #professional-challenges {
-      
+
         width: 100%;
     }
+
     #professional-challenges img {
         max-width: 100%;
     }
 
 
-#transform-world {
-    padding: 1rem;
+    #transform-world {
+        padding: 1rem;
+    }
+
 }
 
-    }
